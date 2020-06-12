@@ -1,7 +1,8 @@
 {
   "name": "black-el-table",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "基于elementui/el-table的封装",
+  "keyword": "elementui el-table 封装组件 table",
   "main": "lib/black-el-table.umd.min.js",
   "license": "MIT",
   "author": "ddcome",
