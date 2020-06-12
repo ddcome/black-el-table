@@ -1,8 +1,8 @@
 {
   "name": "black-el-table",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "基于elementui/el-table的封装",
-  "keyword": [
+  "keywords": [
     "elementui",
     "el-table",
     "black-el-table",
@@ -13,7 +13,7 @@
     "packages",
     "lib"
   ],
-  "main": "lib/black-el-table.umd.js",
+  "main": "lib/black-el-table.umd.min.js ",
   "license": "MIT",
   "author": "ddcome",
   "private": false,
@@ -21,7 +21,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name black-el-table --dest lib packages/black-el-table/index.js"
+    "lib": "vue-cli-service build --target lib --name black-el-table --dest lib packages/index.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
